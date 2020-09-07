@@ -3,7 +3,7 @@
 
 - :mortar_board: Computer Science student at [Federal University of ABC](https://www.ufabc.edu.br/).
 - :four_leaf_clover: Brazilian,Front-end developer,learning and exploring.
-- :computer: Ubuntu,Javascript,Typescript,Java,Python.
+- :computer: Ubuntu, Javascript, Typescript, Java, Python.
 - :watch: Listen to music,watch animes,code,play games.
 
 ### Contact me :speech_balloon:
