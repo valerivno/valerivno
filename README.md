@@ -1,4 +1,4 @@
- #  Hi,i'm Lucas Valeriano <img src="https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" height="100px" width="100px">
+ #  Hi,i'm Lucas Valeriano <img src="https://media.giphy.com/media/QXhSr6NDR4F5t69GL8/giphy.gif" height="100px" width="100px">
 
 
 :computer: Computer Science student at [Federal University of ABC](https://www.ufabc.edu.br/)
