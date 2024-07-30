@@ -4,4 +4,4 @@
 - :mortar_board: Computer Science student at [Federal University of ABC](https://www.ufabc.edu.br/).
 - :four_leaf_clover: Brazilian, software engineer.
 - :computer: Javascript, Typescript, Java, Python.
-- :watch: Listening to music, cooking, and coding.
+- 🍝: Listening to music, cooking, and coding.
